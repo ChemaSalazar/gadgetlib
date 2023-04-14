@@ -1,0 +1,27 @@
+{
+  "name": "gadgetlib",
+  "version": "1.0.0",
+  "description": "A JavaScript library to facilitate writing gadgets for Omni CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "glib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChemaSalazar/gadgetlib.git"
+  },
+  "keywords": [
+    "OmniCMS",
+    "gadgetlib",
+    "gadget",
+    "moderncampus",
+    "module",
+    "package"
+  ],
+  "author": "Chema Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChemaSalazar/gadgetlib/issues"
+  },
+  "homepage": "https://github.com/ChemaSalazar/gadgetlib#readme"
+}
